@@ -1,6 +1,6 @@
 {
   "name": "cspace-ui-plugin-ext-culturalcare",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Cultural Care extension plugin for the CollectionSpace UI",
   "author": "Ray Lee <rhlee@berkeley.edu>",
   "license": "ECL-2.0",
@@ -57,7 +57,7 @@
     "chai-immutable": "^1.6.0",
     "coveralls": "^3.0.2",
     "cross-env": "^2.0.0",
-    "cspace-ui": "^1.0.0-rc.8",
+    "cspace-ui": "^1.0.0-rc.62",
     "css-loader": "^0.28.9",
     "eslint": "^3.2.2",
     "eslint-config-airbnb": "^12.0.0",
