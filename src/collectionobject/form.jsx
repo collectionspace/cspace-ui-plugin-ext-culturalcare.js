@@ -1,15 +1,21 @@
 export default (configContext) => {
   const {
+    layoutComponents,
+    lib,
+    recordComponents,
+  } = configContext;
+
+  const {
     React,
-  } = configContext.lib;
+  } = lib;
 
   const {
     Panel,
-  } = configContext.layoutComponents;
+  } = layoutComponents;
 
   const {
     Field,
-  } = configContext.recordComponents;
+  } = recordComponents;
 
   return (
     <Panel name="culturalCare" collapsible collapsed>
