@@ -1,6 +1,7 @@
 # cspace-ui-plugin-ext-culturalcare
 
-[![build status](https://travis-ci.org/collectionspace/cspace-ui-plugin-ext-culturalcare.js.svg?branch=master)](https://travis-ci.org/collectionspace/cspace-ui-plugin-ext-culturalcare.js)
+[![npm package](https://img.shields.io/npm/v/cspace-ui-plugin-ext-culturalcare.svg)](https://www.npmjs.com/package/cspace-ui-plugin-ext-culturalcare)
+[![continuous integration](https://github.com/collectionspace/cspace-ui-plugin-ext-culturalcare.js/actions/workflows/ci-js.yml/badge.svg?branch=master&event=push)](https://github.com/collectionspace/cspace-ui-plugin-ext-culturalcare.js/actions/workflows/ci-js.yml)
 
 Cultural Care extension plugin for the CollectionSpace UI.
 
